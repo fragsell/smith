@@ -1,0 +1,41 @@
+a:2:{i:0;s:1888:"<div class="navbar-collapse collapse">
+    <ul class="nav navbar-nav navbar-right">
+        <li class="hidden-md hidden-lg">
+            <div class="bg-light-gray">
+                <form class="form-horizontal form-light p-15" role="form">
+                    <div class="input-group input-group-lg">
+                        <input type="text" class="form-control" placeholder="I want to find ...">
+                        <span class="input-group-btn">
+                            <button class="btn btn-white" type="button">
+                                <i class="fa fa-search"></i>
+                            </button>
+                        </span>
+                    </div>
+                </form>
+            </div>
+        </li>
+        <li class="">
+            <a href="/"><i class="fa fa-home"></i> Главная</a>
+        </li>
+
+        
+        <!--<li class="dropdown dropdown-aux animate-click" data-animate-in="animated bounceInUp" data-animate-out="animated fadeOutDown" style="z-index:500;">
+            <a href="#" class="dropdown-form-toggle" data-toggle="dropdown"><i class="fa fa-search"></i></a>
+            <ul class="dropdown-menu dropdown-menu-user animate-wr">
+                <li id="dropdownForm">
+                    <div class="dropdown-form">
+                        <form class="form-horizontal form-light p-15" role="form">
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="I want to find ...">
+                                <span class="input-group-btn">
+                                    <button class="btn btn-base" type="button">Go</button>
+                                </span>
+                            </div>
+                        </form>
+                    </div>
+                </li>
+            </ul>
+        </li>-->
+    </ul>
+</div>
+";i:1;O:25:"yii\caching\TagDependency":3:{s:4:"tags";a:2:{i:0;s:56:"skeeks\cms\cmsWidgets\treeMenu\TreeMenuCmsWidgetmenu-top";i:1;s:22:"sx-table-{{%cms_tree}}";}s:4:"data";a:2:{s:32:"969e67a5d53072fee17f1f0722a12f36";s:21:"0.85148500 1514287505";s:32:"649689bed57a4271f9d0a87f8d3288fe";s:21:"0.88858700 1515124089";}s:8:"reusable";b:0;}}

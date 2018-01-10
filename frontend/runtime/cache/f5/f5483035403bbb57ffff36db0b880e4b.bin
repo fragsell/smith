@@ -1,0 +1,17 @@
+a:2:{i:0;s:519:"<section class="slice no-padding bg-white animate-hover-slide">
+    <div class="wp-section work">
+        <div class="container">
+
+
+            
+            <div class="row">
+                <div id="ulSorList">
+
+                            <div id="p0" data-pjax-container="" data-pjax-push-state data-pjax-timeout="30000">            
+            <div id="w0"><div class="empty"></div></div>
+                            </div>                            </div>
+            </div>
+        </div>
+    </div>
+</section>
+";i:1;O:25:"yii\caching\TagDependency":3:{s:4:"tags";a:2:{i:0;s:93:"skeeks\cms\cmsWidgets\contentElements\ContentElementsCmsWidgetContentElementsCmsWidget-second";i:1;s:33:"sx-table-{{%cms_content_element}}";}s:4:"data";a:2:{s:32:"a8a7c91b1a3665340568e19bb267ebf5";s:21:"0.89399100 1515102712";s:32:"bbb972ee7f9211f5e50c663ca02a95c8";s:21:"0.87285200 1514287505";}s:8:"reusable";b:0;}}

@@ -1,0 +1,14 @@
+/.composer
+/backup  
+CHANGELOG.md  
+/common  
+composer.json  
+composer.lock  
+/console 
+/_ide  
+LICENSE  
+README.md  
+/tests  
+/vendor  
+yii  
+yii.bat

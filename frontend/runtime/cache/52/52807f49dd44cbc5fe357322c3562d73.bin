@@ -1,0 +1,29 @@
+a:2:{i:0;s:907:"
+
+<!-- /Latest Blog Post -->
+<h4 class="letter-spacing-1">Услуги</h4>
+
+<ul id="w0" class="footer-posts list-unstyled"><li>
+    <a href="/uslugi/11-otbelivanie-zubov" title="Отбеливание зубов">Отбеливание зубов</a>
+    <br />
+    <small>Sunday, October 25, 2015</small>
+</li>
+
+<li>
+    <a href="/uslugi/10-ispravlenie-prikusa-breketyi" title="Исправление прикуса (брекеты)">Исправление прикуса (брекеты)</a>
+    <br />
+    <small>Sunday, October 25, 2015</small>
+</li>
+
+<li>
+    <a href="/uslugi/9-protezirovanie-zubov" title="Протезирование зубов">Протезирование зубов</a>
+    <br />
+    <small>Sunday, October 25, 2015</small>
+</li>
+
+<li>
+    <a href="/uslugi/8-terapiya" title="Терапия">Терапия</a>
+    <br />
+    <small>Sunday, October 25, 2015</small>
+</li>
+</ul>";i:1;O:25:"yii\caching\TagDependency":3:{s:4:"tags";a:2:{i:0;s:93:"skeeks\cms\cmsWidgets\contentElements\ContentElementsCmsWidgetContentElementsCmsWidget-footer";i:1;s:33:"sx-table-{{%cms_content_element}}";}s:4:"data";a:2:{s:32:"867c268cf99188e5130a97e5356907b1";s:21:"0.87285200 1514287505";s:32:"bbb972ee7f9211f5e50c663ca02a95c8";s:21:"0.87285200 1514287505";}s:8:"reusable";b:0;}}

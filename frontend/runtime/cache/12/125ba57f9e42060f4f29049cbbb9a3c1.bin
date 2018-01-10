@@ -1,0 +1,125 @@
+a:2:{i:0;s:6002:"
+<!-- OWL SLIDER -->
+
+
+    <section id="slider-wrapper" class="layer-slider-wrapper layer-slider-static">
+        <div id="layerslider" style="width: 100%; height: 500px">    <div class="ls-slide" data-ls="transition2d:1;timeshift:-1000;">
+        <!-- slide background -->
+        <img src="/uploads/all/22/39/3f/22393fb271d072fd9e80629f56c457be.jpg" class="ls-bg" style="width: 100%;"  alt="Slide background"/>
+
+        <div class=" ls-l " style="width:auto; top:30px; left:0;   position:absolute;     "
+            data-ls="offsetxin:0;offsetyin:250;durationin:1000;delayin:1000;offsetxout:0;offsetyout:-8;easingout:easeInOutQuart;scalexout:1.2;scaleyout:1.2;">
+
+                <div class="col-xs-12 col-md-6 c-white" style="background-color: rgba(41, 82, 93, 0.7); max-height:320px; overflow:hidden; margin-left: 60px;">
+                    <div class="p-30 clearfix ls-texts">
+                        <h2 style="font-size:180%">Слайд 1</h2>
+                        <div class=" lh-150 ls-descr-short" style="font-size:100%">
+                                                    </div>
+                        <div class=" lh-150 ls-descr-fool" style="font-size:100%">
+                                                    </div>
+                    </div >
+                </div>
+            </div>
+
+
+
+
+    </div>
+
+    <div class="ls-slide" data-ls="transition2d:1;timeshift:-1000;">
+        <!-- slide background -->
+        <img src="/uploads/all/e7/3e/02/e73e0270e75c9f93738bbafefe182923.jpg" class="ls-bg" style="width: 100%;"  alt="Slide background"/>
+
+        <div class=" ls-l " style="width:auto; top:30px; left:0;   position:absolute;     "
+            data-ls="offsetxin:0;offsetyin:250;durationin:1000;delayin:1000;offsetxout:0;offsetyout:-8;easingout:easeInOutQuart;scalexout:1.2;scaleyout:1.2;">
+
+                <div class="col-xs-12 col-md-6 c-white" style="background-color: rgba(41, 82, 93, 0.7); max-height:320px; overflow:hidden; margin-left: 60px;">
+                    <div class="p-30 clearfix ls-texts">
+                        <h2 style="font-size:180%">Слайд 2</h2>
+                        <div class=" lh-150 ls-descr-short" style="font-size:100%">
+                                                    </div>
+                        <div class=" lh-150 ls-descr-fool" style="font-size:100%">
+                                                    </div>
+                    </div >
+                </div>
+            </div>
+
+
+
+
+    </div>
+
+    <div class="ls-slide" data-ls="transition2d:1;timeshift:-1000;">
+        <!-- slide background -->
+        <img src="/uploads/all/c7/63/df/c763dfcc39d930e23502d088e518f099.jpg&w=1200&h=500&crop-to-fit=y" class="ls-bg" style="width: 100%;"  alt="Slide background"/>
+
+        <div class=" ls-l " style="width:auto; top:30px; left:0;   position:absolute;     "
+            data-ls="offsetxin:0;offsetyin:250;durationin:1000;delayin:1000;offsetxout:0;offsetyout:-8;easingout:easeInOutQuart;scalexout:1.2;scaleyout:1.2;">
+
+                <div class="col-xs-12 col-md-6 c-white" style="background-color: rgba(41, 82, 93, 0.7); max-height:320px; overflow:hidden; margin-left: 60px;">
+                    <div class="p-30 clearfix ls-texts">
+                        <h2 style="font-size:180%">Слайд 3</h2>
+                        <div class=" lh-150 ls-descr-short" style="font-size:100%">
+                                                    </div>
+                        <div class=" lh-150 ls-descr-fool" style="font-size:100%">
+                                                    </div>
+                    </div >
+                </div>
+            </div>
+
+
+
+
+    </div>
+
+    <div class="ls-slide" data-ls="transition2d:1;timeshift:-1000;">
+        <!-- slide background -->
+        <img src="/uploads/all/6e/d4/c4/6ed4c434e7ec08d7a7489f5458f26b3d.png" class="ls-bg" style="width: 100%;"  alt="Slide background"/>
+
+        <div class=" ls-l " style="width:auto; top:30px; left:0;   position:absolute;     "
+            data-ls="offsetxin:0;offsetyin:250;durationin:1000;delayin:1000;offsetxout:0;offsetyout:-8;easingout:easeInOutQuart;scalexout:1.2;scaleyout:1.2;">
+
+                <div class="col-xs-12 col-md-6 c-white" style="background-color: rgba(41, 82, 93, 0.7); max-height:320px; overflow:hidden; margin-left: 60px;">
+                    <div class="p-30 clearfix ls-texts">
+                        <h2 style="font-size:180%">Слайд 4</h2>
+                        <div class=" lh-150 ls-descr-short" style="font-size:100%">
+                                                    </div>
+                        <div class=" lh-150 ls-descr-fool" style="font-size:100%">
+                                                    </div>
+                    </div >
+                </div>
+            </div>
+
+
+
+
+    </div>
+
+    <div class="ls-slide" data-ls="transition2d:1;timeshift:-1000;">
+        <!-- slide background -->
+        <img src="/uploads/all/a5/11/9e/a5119efa777546c9366e3affd8802571.png" class="ls-bg" style="width: 100%;"  alt="Slide background"/>
+
+        <div class=" ls-l " style="width:auto; top:30px; left:0;   position:absolute;     "
+            data-ls="offsetxin:0;offsetyin:250;durationin:1000;delayin:1000;offsetxout:0;offsetyout:-8;easingout:easeInOutQuart;scalexout:1.2;scaleyout:1.2;">
+
+                <div class="col-xs-12 col-md-6 c-white" style="background-color: rgba(41, 82, 93, 0.7); max-height:320px; overflow:hidden; margin-left: 60px;">
+                    <div class="p-30 clearfix ls-texts">
+                        <h2 style="font-size:180%">Слайд 5</h2>
+                        <div class=" lh-150 ls-descr-short" style="font-size:100%">
+                                                    </div>
+                        <div class=" lh-150 ls-descr-fool" style="font-size:100%">
+                                                    </div>
+                    </div >
+                </div>
+            </div>
+
+
+
+
+    </div>
+</div>    </section>
+
+
+
+<!-- /OWL SLIDER -->
+";i:1;O:25:"yii\caching\TagDependency":3:{s:4:"tags";a:2:{i:0;s:98:"skeeks\cms\cmsWidgets\contentElements\ContentElementsCmsWidgetContentElementsCmsWidget-home-slides";i:1;s:33:"sx-table-{{%cms_content_element}}";}s:4:"data";a:2:{s:32:"a85c5814717f722692984d4458ec9270";s:21:"0.31642400 1514287509";s:32:"bbb972ee7f9211f5e50c663ca02a95c8";s:21:"0.87285200 1514287505";}s:8:"reusable";b:0;}}

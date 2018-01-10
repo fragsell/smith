@@ -1,0 +1,124 @@
+a:2:{i:0;s:4893:"<section class="slice no-padding bg-white animate-hover-slide">
+    <div class="wp-section work">
+        <div class="container">
+
+
+                            <div class="section-title-wr">
+                    <h3 class="section-title left">
+                        <span>Услуги</span>
+                    </h3>
+                </div>
+
+            
+            <div class="row">
+                <div id="ulSorList">
+
+                            <div id="p0" data-pjax-container="" data-pjax-push-state data-pjax-timeout="30000">            
+            <div id="w0">
+<div class="col-lg-3 col-md-3 col-sm-6" data-key="11">
+<div class="wp-block inverse">
+    <div class="figure">
+        <img alt="" src="/uploads/all/26/a8/db/26a8dbb6439e79022c61e1a5fbcbec97.jpg" class="img-responsive">
+        <div class="figcaption bg-base"></div>
+        <div class="figcaption-btn">
+            <a class="btn btn-lg btn-b-white" href="/uslugi/11-otbelivanie-zubov" title="Отбеливание зубов" data-pjax="0">Подробнее</a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-9">
+            <h2><a href="/uslugi/11-otbelivanie-zubov" title="Отбеливание зубов" data-pjax="0">Отбеливание зубов</a></h2>
+        </div>
+        <div class="col-xs-3">
+            <!--<div class="like-button">
+                <span class="button">
+                    <i class="fa fa-heart"></i>
+                </span>
+                <span class="count"><small>123</small></span>
+            </div>
+        </div>-->
+        </div>
+    </div>
+</div>
+</div>
+<div class="col-lg-3 col-md-3 col-sm-6" data-key="10">
+<div class="wp-block inverse">
+    <div class="figure">
+        <img alt="" src="/uploads/all/0c/2a/8c/0c2a8c95e88b17e27389d20b164025ba.jpg" class="img-responsive">
+        <div class="figcaption bg-base"></div>
+        <div class="figcaption-btn">
+            <a class="btn btn-lg btn-b-white" href="/uslugi/10-ispravlenie-prikusa-breketyi" title="Исправление прикуса (брекеты)" data-pjax="0">Подробнее</a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-9">
+            <h2><a href="/uslugi/10-ispravlenie-prikusa-breketyi" title="Исправление прикуса (брекеты)" data-pjax="0">Исправление прикуса (брекеты)</a></h2>
+        </div>
+        <div class="col-xs-3">
+            <!--<div class="like-button">
+                <span class="button">
+                    <i class="fa fa-heart"></i>
+                </span>
+                <span class="count"><small>123</small></span>
+            </div>
+        </div>-->
+        </div>
+    </div>
+</div>
+</div>
+<div class="col-lg-3 col-md-3 col-sm-6" data-key="9">
+<div class="wp-block inverse">
+    <div class="figure">
+        <img alt="" src="/uploads/all/e3/b2/c7/e3b2c71dcdf5d325c0b73003380a808e.jpg" class="img-responsive">
+        <div class="figcaption bg-base"></div>
+        <div class="figcaption-btn">
+            <a class="btn btn-lg btn-b-white" href="/uslugi/9-protezirovanie-zubov" title="Протезирование зубов" data-pjax="0">Подробнее</a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-9">
+            <h2><a href="/uslugi/9-protezirovanie-zubov" title="Протезирование зубов" data-pjax="0">Протезирование зубов</a></h2>
+        </div>
+        <div class="col-xs-3">
+            <!--<div class="like-button">
+                <span class="button">
+                    <i class="fa fa-heart"></i>
+                </span>
+                <span class="count"><small>123</small></span>
+            </div>
+        </div>-->
+        </div>
+    </div>
+</div>
+</div>
+<div class="col-lg-3 col-md-3 col-sm-6" data-key="8">
+<div class="wp-block inverse">
+    <div class="figure">
+        <img alt="" src="/uploads/all/89/84/80/8984801767d98d26445c32e15725cb62.jpg" class="img-responsive">
+        <div class="figcaption bg-base"></div>
+        <div class="figcaption-btn">
+            <a class="btn btn-lg btn-b-white" href="/uslugi/8-terapiya" title="Терапия" data-pjax="0">Подробнее</a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-9">
+            <h2><a href="/uslugi/8-terapiya" title="Терапия" data-pjax="0">Терапия</a></h2>
+        </div>
+        <div class="col-xs-3">
+            <!--<div class="like-button">
+                <span class="button">
+                    <i class="fa fa-heart"></i>
+                </span>
+                <span class="count"><small>123</small></span>
+            </div>
+        </div>-->
+        </div>
+    </div>
+</div>
+</div>
+<p class="row"></p></div>
+                            </div>                            </div>
+            </div>
+        </div>
+    </div>
+</section>
+";i:1;O:25:"yii\caching\TagDependency":3:{s:4:"tags";a:2:{i:0;s:91:"skeeks\cms\cmsWidgets\contentElements\ContentElementsCmsWidgetContentElementsCmsWidget-home";i:1;s:33:"sx-table-{{%cms_content_element}}";}s:4:"data";a:2:{s:32:"8b535c8025ec25c25b10d8cb8ba33da8";s:21:"0.32911500 1514287509";s:32:"bbb972ee7f9211f5e50c663ca02a95c8";s:21:"0.87285200 1514287505";}s:8:"reusable";b:0;}}

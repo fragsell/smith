@@ -1,0 +1,4 @@
+a:2:{i:0;s:69:"<h4 >Меню</h4>
+<ul class="footer-links list-unstyled">
+    </ul>
+";i:1;O:25:"yii\caching\TagDependency":3:{s:4:"tags";a:2:{i:0;s:61:"skeeks\cms\cmsWidgets\treeMenu\TreeMenuCmsWidgetmenu-footer-2";i:1;s:22:"sx-table-{{%cms_tree}}";}s:4:"data";a:2:{s:32:"79e476351b62d3d234c5003d1a4ada73";s:21:"0.87727800 1514287505";s:32:"649689bed57a4271f9d0a87f8d3288fe";s:21:"0.88858700 1515124089";}s:8:"reusable";b:0;}}
