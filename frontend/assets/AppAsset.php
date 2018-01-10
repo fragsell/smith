@@ -35,5 +35,6 @@ class AppAsset extends \skeeks\cms\base\AssetBundle
         '\skeeks\sx\assets\Custom',
         '\skeeks\cms\assets\FancyboxAssets',
         '\frontend\assets\BoomerangThemeAsset',
+        '\frontend\assets\SmithAssets'
     ];
 }
