@@ -2,10 +2,9 @@
 /**
  * AppAsset
  *
- * @author Semenov Alexander <semenov@skeeks.com>
- * @link http://skeeks.com/
- * @copyright 2010-2014 SkeekS (Sx)
- * @date 20.10.2014
+ * @author Evgenj Chekhman <loki@kra.ru>
+ * @link http://kra.ru/
+ * @date 11.01.2018
  * @since 1.0.0
  */
 
