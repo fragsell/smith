@@ -251,7 +251,7 @@ footer{
     font-family: "MyriadProRegular", serif;
     font-size: 18px;
     text-align: center;
-    top: 37%;
+    top: 40%;
     left: 25%;
     bottom: 0;
     right: 0;
@@ -272,7 +272,7 @@ footer{
 .item_more img {
     display: block;
     position: relative;
-    top: 37%;
+    top: 34%;
     left: 37%;
     bottom: 0;
     right: 0;
@@ -440,50 +440,50 @@ footer{
 /* font-family: "MyriadProBold"; */
 @font-face {
     font-family: "MyriadProBold";
-    src: url("/fonts/MyriadProBold/MyriadProBold.eot");
-    src: url("/fonts/MyriadProBold/MyriadProBold.eot?#iefix")format("embedded-opentype"),
-    url("/fonts/MyriadProBold/MyriadProBold.woff") format("woff"),
-    url("/fonts/MyriadProBold/MyriadProBold.ttf") format("truetype");
+    src: url("/kuz/dist/fonts/MyriadProBold/MyriadProBold.eot");
+    src: url("/kuz/dist/fonts/MyriadProBold/MyriadProBold.eot?#iefix")format("embedded-opentype"),
+    url("/kuz/dist/fonts/MyriadProBold/MyriadProBold.woff") format("woff"),
+    url("/kuz/dist/fonts/MyriadProBold/MyriadProBold.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
 /* font-family: "MyriadProItalic"; */
 @font-face {
     font-family: "MyriadProItalic";
-    src: url("/fonts/MyriadProItalic/MyriadProItalic.eot");
-    src: url("/fonts/MyriadProItalic/MyriadProItalic.eot?#iefix")format("embedded-opentype"),
-    url("/fonts/MyriadProItalic/MyriadProItalic.woff") format("woff"),
-    url("/fonts/MyriadProItalic/MyriadProItalic.ttf") format("truetype");
+    src: url("/kuz/dist/fonts/MyriadProItalic/MyriadProItalic.eot");
+    src: url("/kuz/dist/fonts/MyriadProItalic/MyriadProItalic.eot?#iefix")format("embedded-opentype"),
+    url("/kuz/dist/fonts/MyriadProItalic/MyriadProItalic.woff") format("woff"),
+    url("/kuz/dist/fonts/MyriadProItalic/MyriadProItalic.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
 /* font-family: "MyriadProSemiBold"; */
 @font-face {
     font-family: "MyriadProSemiBold";
-    src: url("/fonts/MyriadProSemiBold/MyriadProSemiBold.eot");
-    src: url("/fonts/MyriadProSemiBold/MyriadProSemiBold.eot?#iefix")format("embedded-opentype"),
-    url("/fonts/MyriadProSemiBold/MyriadProSemiBold.woff") format("woff"),
-    url("/fonts/MyriadProSemiBold/MyriadProSemiBold.ttf") format("truetype");
+    src: url("/kuz/dist/fonts/MyriadProSemiBold/MyriadProSemiBold.eot");
+    src: url("/kuz/dist/fonts/MyriadProSemiBold/MyriadProSemiBold.eot?#iefix")format("embedded-opentype"),
+    url("/kuz/dist/fonts/MyriadProSemiBold/MyriadProSemiBold.woff") format("woff"),
+    url("/kuz/dist/fonts/MyriadProSemiBold/MyriadProSemiBold.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
 /* font-family: "MyriadProBoldItalic"; */
 @font-face {
     font-family: "MyriadProBoldItalic";
-    src: url("/fonts/MyriadProBoldItalic/MyriadProBoldItalic.eot");
-    src: url("/fonts/MyriadProBoldItalic/MyriadProBoldItalic.eot?#iefix")format("embedded-opentype"),
-    url("/fonts/MyriadProBoldItalic/MyriadProBoldItalic.woff") format("woff"),
-    url("/fonts/MyriadProBoldItalic/MyriadProBoldItalic.ttf") format("truetype");
+    src: url("/kuz/dist/fonts/MyriadProBoldItalic/MyriadProBoldItalic.eot");
+    src: url("/kuz/dist/fonts/MyriadProBoldItalic/MyriadProBoldItalic.eot?#iefix")format("embedded-opentype"),
+    url("/kuz/dist/fonts/MyriadProBoldItalic/MyriadProBoldItalic.woff") format("woff"),
+    url("/kuz/dist/fonts/MyriadProBoldItalic/MyriadProBoldItalic.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
 /* font-family: "MyriadProSemiBoldItalic"; */
 @font-face {
     font-family: "MyriadProSemiBoldItalic";
-    src: url("/fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.eot");
-    src: url("/fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.eot?#iefix")format("embedded-opentype"),
-    url("/fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.woff") format("woff"),
-    url("/fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.ttf") format("truetype");
+    src: url("/kuz/dist/fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.eot");
+    src: url("/kuz/dist/fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.eot?#iefix")format("embedded-opentype"),
+    url("/kuz/dist/fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.woff") format("woff"),
+    url("/kuz/dist/fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
